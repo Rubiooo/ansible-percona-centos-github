@@ -3,7 +3,7 @@ galaxy_info:
   description: provision percona on centos
 
 
-  license: license: license (GPLv2, CC-BY, etc)
+  license: license (GPLv2, CC-BY, etc)
 
   min_ansible_version: 1.4
 
