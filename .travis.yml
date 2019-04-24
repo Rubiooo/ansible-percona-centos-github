@@ -7,7 +7,7 @@ sudo: required
 
 env:
   - distribution: centos
-    version: 7
+    version: 6
     ansible_extra_vars: ""
   - distribution: centos
     version: 7
